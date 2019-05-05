@@ -1,2 +1,2 @@
 # wpFigureBed
-a picture bed for wp 
+a picture bed for WEI PENG 
